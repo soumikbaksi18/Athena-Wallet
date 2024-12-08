@@ -88,13 +88,6 @@
 ### 📂 Project Index
 <details open>
 	<summary><b><code>ATHENA-WALLET/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			</table>
-		</blockquote>
-	</details>
 	<details> <!-- Athena-backend-chat Submodule -->
 		<summary><b>Athena-backend-chat</b></summary>
 		<blockquote>
