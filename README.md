@@ -509,6 +509,7 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## 🙌 Youtube
 
-[https://www.youtube.com/embed/mzFSWMgn2j8?si=PnfoSJpZLiq1DOyb](https://www.youtube.com/embed/mzFSWMgn2j8?si=PnfoSJpZLiq1DOyb)
+- [https://www.youtube.com/watch?v=mzFSWMgn2j8](https://www.youtube.com/watch?v=mzFSWMgn2j8)
+- [https://youtu.be/a4KHvVjlIYs](https://youtu.be/a4KHvVjlIYs)
 
 ---
