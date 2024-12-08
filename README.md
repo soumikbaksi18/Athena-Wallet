@@ -22,6 +22,7 @@
 
 - [📍 Overview](#-overview)
 - [👾 Features](#-features)
+- [🚀 UserFlow](#-userflow)
 - [📁 Project Structure](#-project-structure)
   - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
@@ -46,6 +47,10 @@
 ## 👾 Features
 
 <code>❯ REPLACE-ME</code>
+
+---
+## 🚀 Userflow
+<img width="1465" alt="Screenshot 2024-12-08 at 9 15 40 AM" src="https://github.com/user-attachments/assets/ce3f9904-008a-4068-9bf5-0c1ef564de85">
 
 ---
 
@@ -351,6 +356,7 @@
 </details>
 
 ---
+
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
@@ -379,6 +385,7 @@ Install Athena-Wallet using one of the following methods:
 ```
 
 3. Install the project dependencies:
+
 
 
 **Using `pip`** &nbsp; [<img align="center" src="" />]()
