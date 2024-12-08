@@ -3,7 +3,7 @@
 </p>
 <p align="center"><h1 align="center">ATHENA-WALLET</h1></p>
 <p align="center">
-	<em><code>All Your AI DeFi in one Place! </code></em>
+	<h4 align="center">All Your AI DeFi in one Place! </h4>
 </p>
 <p align="center">
 <!-- 	<img src="https://img.shields.io/github/license/soumikbaksi18/Athena-Wallet?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license"> -->
