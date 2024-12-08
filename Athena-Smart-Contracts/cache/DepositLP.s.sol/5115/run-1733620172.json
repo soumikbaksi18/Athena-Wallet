@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://rpc.testnet.citrea.xyz"
+    },
+    {
+      "rpc": "https://rpc.testnet.citrea.xyz"
+    },
+    {
+      "rpc": "https://rpc.testnet.citrea.xyz"
+    },
+    {
+      "rpc": "https://rpc.testnet.citrea.xyz"
+    }
+  ]
+}

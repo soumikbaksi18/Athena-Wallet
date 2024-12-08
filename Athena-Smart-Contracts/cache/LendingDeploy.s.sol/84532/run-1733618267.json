@@ -1,0 +1,7 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://base-sepolia.blockpi.network/v1/rpc/public"
+    }
+  ]
+}

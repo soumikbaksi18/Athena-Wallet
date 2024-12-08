@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://opbnb-testnet-rpc.bnbchain.org"
+    },
+    {
+      "rpc": "https://opbnb-testnet-rpc.bnbchain.org"
+    },
+    {
+      "rpc": "https://opbnb-testnet-rpc.bnbchain.org"
+    }
+  ]
+}
