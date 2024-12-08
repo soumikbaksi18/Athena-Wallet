@@ -23,6 +23,7 @@
 - [📍 Overview](#-overview)
 - [👾 Features](#-features)
 - [🚀 UserFlow](#-userflow)
+- [🚀 Architecture](#-architecture)
 - [📁 Project Structure](#-project-structure)
   - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
@@ -51,6 +52,10 @@
 ---
 ## 🚀 Userflow
 <img width="1465" alt="Screenshot 2024-12-08 at 9 15 40 AM" src="https://github.com/user-attachments/assets/ce3f9904-008a-4068-9bf5-0c1ef564de85">
+
+---
+## 📁 Architecture
+<img width="1478" alt="Screenshot 2024-12-08 at 9 21 42 AM" src="https://github.com/user-attachments/assets/90fa569b-734c-4330-9560-b76a3d08b252">
 
 ---
 
