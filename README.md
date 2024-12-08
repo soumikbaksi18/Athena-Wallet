@@ -509,6 +509,6 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## 🙌 Youtube
 
-- List any resources, contributors, inspiration, etc. here.
+[https://www.youtube.com/embed/mzFSWMgn2j8?si=PnfoSJpZLiq1DOyb](https://www.youtube.com/embed/mzFSWMgn2j8?si=PnfoSJpZLiq1DOyb)
 
 ---
