@@ -40,14 +40,45 @@
 ---
 
 ## 📍 Overview
+Our platform integrates a specialized, AI-assisted DeFi wallet with real-time data retrieval layers (RAG-driven models on LangChain) and a custom-built smart contract environment that emulates core functionalities of Uniswap-style AMMs and Compound-style lending protocols. This unified approach enables automated and semi-autonomous DeFi operations—such as liquidity provision, swapping, lending, and borrowing—executed intelligently and securely within a single cohesive framework.
 
-<code>❯ REPLACE-ME</code>
+
+**Value Proposition:**
+
+By combining RAG-based market intelligence with AMM and lending protocols, the platform abstracts away the complexity of multi-step DeFi operations. It presents a technical proof-of-concept that a fully AI-integrated wallet can:  
+- Dynamically provide liquidity  
+- Automate asset swaps and portfolio adjustments  
+- Perform yield-optimizing lending operations  
+- Handle collateralized borrowing with robust guardrails
+
+This harmonized approach leads to streamlined onboarding, enhanced risk management, and a frictionless user experience, ultimately driving more efficient and accessible DeFi participation.
 
 ---
 
 ## 👾 Features
+1. **AI-Driven Market Analytics:**  
+   Leveraging a Retrieval Augmented Generation (RAG) model integrated with LangChain, the system continuously indexes live market data from decentralized exchanges (DEXs) and lending protocols. This ensures that the AI layer provides timely, context-aware strategies—including portfolio comparisons, yield optimization, and risk assessments—without user intervention.
 
-<code>❯ REPLACE-ME</code>
+2. **Autonomous and Intent-Based Operations:**  
+   Users can execute operations like transferring tokens, swapping assets, providing liquidity, or borrowing against collateral through natural language instructions. The AI component interprets user commands, understands current market conditions, and proposes optimal transaction paths. The user maintains ultimate control by setting spending caps, collateralization thresholds, and approval checks.
+
+3. **Automated Market Maker Integration (Uniswap-Style):**  
+   We implement a simplified AMM pool architecture that mimics Uniswap’s core logic.  
+   - **Liquidity Provision:** Users supply “Chill” tokens and ETH, receiving LP tokens proportional to their liquidity share.  
+   - **Token Swaps:** The AMM curve allows automated swaps between Chill and ETH, dynamically adjusting based on the pool’s reserves.
+
+   This AMM model ensures continuous liquidity and price discovery. By integrating with the AI layer, the wallet can automatically suggest when to provide liquidity or rebalance based on on-chain data.
+
+4. **Lending and Borrowing (Compound-Style):**  
+   Our lending component is a reduced version of Compound’s logic, supporting:  
+   - **USDC Deposits for Yield:** Users lock USDC to earn interest from a lending pool.  
+   - **Collateralized Loans via LP Tokens:** LP tokens from the AMM can be pledged as collateral. Borrowers can draw up to 80% of the LP token’s value in USDC. Failure to repay triggers liquidation of the collateralized LP tokens.
+
+   Integrating these functionalities into the AI framework allows the wallet to recommend lending opportunities or borrowing strategies, guided by dynamic interest rates, liquidity conditions, and user-defined risk parameters.
+
+5. **On-Chain Transaction Execution via AI:**
+   The system demonstrates that given the ABI and contract addresses of EVM-compatible swap and lending protocols, the AI layer can seamlessly interact with these contracts. By parsing user requests and current market conditions, it can generate and execute on-chain transactions—provisioning liquidity, performing swaps, initiating deposits, or taking loans—while maintaining user-defined security and regulatory constraints.
+
 
 ---
 ## 🚀 Userflow
@@ -454,13 +485,6 @@ Run the test suite using the following command:
 ❯ npm test
 ```
 
-
----
-## 📌 Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
 
 ---
 
