@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1468" alt="Screenshot 2024-12-08 at 8 39 49 AM" src="https://github.com/user-attachments/assets/4975fe80-525b-4d9c-ab84-aa8b50a6ff45">    
+  <img width="1468" alt="Screenshot 2024-12-08 at 8 39 49 AM" src="![image](https://github.com/user-attachments/assets/11243720-533b-4e0a-bb0a-2788f99b6f3e)">    
 </p>
 <p align="center"><h1 align="center">ATHENA-WALLET</h1></p>
 <p align="center">
